@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "currency-converter"
+  "defaultProject": "currency-converter",
+  "cli": {
+    "analytics": "5207b99a-b3e3-44bc-bfbb-d999dcd558cd"
+  }
 }
